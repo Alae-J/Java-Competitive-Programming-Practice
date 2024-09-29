@@ -1,3 +1,6 @@
+// The input will contain an integer n, and n non-negative integers, each smaller than 1000, one per line.
+// Outputs the number of distinct values when considered modulo 42 on a single line.
+
 import java.util.*;
 
 public class Modulo{
