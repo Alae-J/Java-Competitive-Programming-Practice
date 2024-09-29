@@ -1,3 +1,6 @@
+// This code takes an int as input, transforms it to its binary version, 
+// reverses it as a string, and then outputs the corresponding int.
+
 import java.util.*;
 public class reversingBinary{
     public static void main(String[] args){
