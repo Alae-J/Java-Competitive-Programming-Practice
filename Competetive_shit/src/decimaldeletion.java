@@ -1,3 +1,7 @@
+// Input: The first and only line of input will be a decimal number .
+// Output: Prints the integer closest to the given input. 
+// If the given input is exactly between two integers, any of them will be accepted.
+
 import java.util.*;
 
 public class decimaldeletion{
