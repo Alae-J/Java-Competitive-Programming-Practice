@@ -1,3 +1,10 @@
+//The input consists of 6 integers on a single line, each between 
+// 0 and 10 (inclusive). The numbers are, in order, the numbers of kings,
+// queens, rooks, bishops, knights and pawns in the set Mirko found.
+// Output should consist of integers on a single line; the number of pieces
+// of each type that should be added or removed. If a number is positive, 
+// that many pieces must be added. If a number is negative, pieces must be removed.
+
 import java.util.*;
 
 public class bijele{
